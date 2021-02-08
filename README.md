@@ -1,7 +1,7 @@
 ## Hello, I'm João Belo! 
 
 
-- ### About me:
+- ### 🗨 About me:
     #### I am a electronic engeneering student at UPFE and developer at [CITi](https://citi.org.br/) 🚀. 
     #### I love coffee, coding and conversation! ☕
 
@@ -19,9 +19,11 @@
 
 
 - ### ✨ Github stats:
-
     [![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorbelo)](https://github.com/joaovictorbelo)
 
 
 - ### 📢 Contact: 
     [![linkedin](https://img.shields.io/badge/-linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/joão-victor-belo-30166717b)
+
+[comment]: <- ### 📈 Most used languages:>
+[comment]:    <![João's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorbelo&layout=compact)>

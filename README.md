@@ -2,7 +2,7 @@
 
 
 - ### 🗨 About me:
-    #### I am a electronic engeneering student at UPFE and developer at [CITi](https://citi.org.br/) 🚀. 
+    #### I am a computer engeneering student at UPFE 🚀. 
     #### I love coffee, coding and conversation! ☕
 
 - ### 💻 Techs:
